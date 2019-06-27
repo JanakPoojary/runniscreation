@@ -48,7 +48,10 @@ color:white;
     }
     @media only screen and (max-device-width: 1024px) {
       #main{
-        height:25rem;
-        padding-bottom: 5rem;
+        height:20rem;
+        padding:5rem;
+      }
+      #main-u{
+        top:50%;
       }
 }
