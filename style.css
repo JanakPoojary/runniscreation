@@ -46,3 +46,8 @@ color:white;
       background: #cc0052;
       color: white;
     }
+    @media only screen and (max-device-width: 1024px) {
+      #main{
+        height:25rem;
+      }
+}
