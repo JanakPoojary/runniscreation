@@ -55,3 +55,18 @@ color:white;
         top:50%;
       }
 }
+.image{
+  max-width: 15rem;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+    grid-template-rows: repeat(8, auto);
+    grid-gap: 15px;
+}
+#fd{
+font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
